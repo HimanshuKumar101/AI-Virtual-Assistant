@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyDpLVW5fRtiMUEfcDh_E-m50AcX2eKFVC8"; // Access the API key
+const API_KEY = "YoUR API keY"; // Access the API key
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${API_KEY}`;
 
 let btn = document.querySelector("#btn");
